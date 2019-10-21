@@ -1,0 +1,34 @@
+## Build Amazing Software
+- There are lots of things that have to go right when building a software system. 
+- Architecture connects them all together and provides a foundation for success. 
+- Here are six ways software architecture helps you in your quest to build spectacular software that your stakeholders will love:
+    - Software architecture turns a big problem into smaller, more manageable problems.
+        - Modern software systems are large and complex, 
+        - and they have many moving pieces. 
+        - The architecture precisely explains how to partition the system into smaller, bite-sized chunks while also ensuring the system as a whole is greater than the sum of its parts.
+    - Software architecture shows people how to work together.
+        - Software development is as much about human communication as it is technology. 
+        - Software architecture describes how the whole system comes together, including the people who build it. 
+        - When you know the architecture, then you can see how people can collaborate to develop software. 
+        - The larger the software system, the more important this becomes.
+    - Software architecture provides a vocabulary for talking about complex ideas.
+        - If I don’t understand what you’re talking about, then we won’t be able to collaborate. 
+        - Instead of spending all our time inventing vocabulary and concepts, we can use the essential concepts and core vocabulary of architecture as the starting basis for collaboration. 
+        - Now we can spend our time solving our users’ real problems.
+    - Software architecture looks beyond features and functionality.
+        - Features and functionality are important, but they are not the only thing that determines whether or not software is awesome. 
+        - When designing architecture, you’ll consider not only the features but also costs, constraints, schedules, risk, the ability of the team to deliver, 
+        - and most importantly quality attributes—things like scalability, availability, performance, and maintainability.
+    - Software architecture helps you avoid costly mistakes.
+        - In Who Needs an Architect? 
+        - Martin Fowler defines software architecture as “…the important stuff. Whatever that is.” 
+        - The important stuff is nearly always what we think will be difficult to change without significantly increasing complexity. 
+        - Grady Booch echoes Fowler’s sentiment by defining architecture as the “…significant design decisions (where significant is measured by the cost of change).”
+        - Software architects are not omniscient, but designing an architecture will help you discover the challenging (and interesting) parts of the problem that might cause big trouble later.
+    - Software architecture enables agility.
+        - Your software should respond to change like water, by bending around obstacles with ease. 
+        - If software is like water, able to take any shape, then software architecture is the container that holds it. 
+        - That container can be rigid like a box or flexible like a plastic bag. 
+        - It can be thick and heavy or lightweight. 
+        - Without an architecture, software, like water, follows the path of least resistance and sprawls uncontrollably. 
+        - A software system’s architecture provides the structure within which change is possible.
