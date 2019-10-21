@@ -54,6 +54,7 @@ permalink: /: short-url/
 
 - Summary
   - Assuming 500 million new URLs per month and 100:1 read:write ratio
+  
   Category | Calculation | Estimate
   ---- | ---- | ----
   New URLs | 500 million / (30 days * 24 hours * 3600 seconds) | 200 /s
@@ -66,6 +67,7 @@ permalink: /: short-url/
 ## System APIs
 ### `createUrl`
 - Parameters
+
   Name | Type | Note
   ---- | ---- | ----
   `api_dev_key` | `string` | The API developer key of a registered account. This will be used to, among other things, throttle users based on their allocated quota.
@@ -79,6 +81,7 @@ permalink: /: short-url/
 
 ### `deleteUrl`
 - Parameters
+
   Name | Type | Note
   ---- | ---- | ----
   `api_dev_key` | `string` | The API developer key of a registered account. This will be used to, among other things, throttle users based on their allocated quota.
@@ -98,6 +101,7 @@ permalink: /: short-url/
 
 - Schema
   - URL
+  
     Column | Type
     ---- | ----
     `hash` | varchar(16)
@@ -106,6 +110,7 @@ permalink: /: short-url/
     `expiration_date` | datetime
     `user_id` | int
   - User
+  
     Column | Type
     ---- | ----
     `name` | varchar(20)
