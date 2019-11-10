@@ -1,0 +1,136 @@
+## Index of questions
+- Can you tell me a bit about yourself?
+- Why have you applied for this vacancy?
+- Why do you wish to leave your current position?
+- Why do you want to work for this organisation?
+- What are your strengths?
+- What are your weaknesses?
+- What has been your greatest achievement/accomplishment?
+- What can you, above all the other applicants, bring to this job?
+- Where do you see yourself in five years’ time?
+- You’ve mentioned x under the Interests & Activities on your CV. Can you tell me a bit more about that?
+- How would you describe yourself? / How would your boss/colleagues/team/family/friends describe you?
+- In what ways are you a team player?
+- Do you work well on your own initiative?
+- What techniques do you use to get things done?
+- What motivates you?
+- Are you proactive?
+- Are you creative?
+- Are you a risk taker?
+- How do you handle pressure and stress?
+- Can you tell me about a time when you have failed to achieve a goal?
+- What’s the worst mistake you’ve made at work and how did you deal with it?
+- How would you handle the following situation?
+- Can you tell me about a major project you have successfully completed?
+- Can you tell me about a major problem at work that you’ve had to deal with?
+- We have a problem with x. How would you resolve that?
+- What do you do when you disagree with your line manager?
+- How would you describe yourself as a manager?
+- Can you give me an example of when you have successfully coached a member of your team?
+- What is your customer service philosophy?
+- How did you get your last job?
+- What does your current job involve on a day-to-day basis?
+- What contribution do you make to the department in which you work?
+- What changes have you made to your current job role since you started?
+- What have you learned in your last job?
+- Can you tell me about your last appraisal?
+- How would you describe your current boss?
+- Why did you leave that job?
+- Which of your jobs was the best?
+- Why is there a gap in your CV?
+- What do you know about us as an organisation?
+- What do you know about our products/services?
+- What do you think are our organisation’s greatest strengths, weaknesses, opportunities and threats?
+- What do you know about the vacancy for which you are applying?
+- How do your skills and experience match the job description/person specification?
+- What appeals to you most about this vacancy?
+- Why have you chosen this line of work?
+- Are there any other organisations to which you are applying?
+- How does this job compare to others for which you are applying?
+- Can you describe your ideal employer to me?
+- What sort of person would you most like to work for?
+- In what ways is your degree relevant to the work you are now doing?
+- What have you learned and how have you developed over the last year/five years?
+- What sports are you/have you been involved in?
+- Do you know what the current headline news is?
+- How quickly can you adapt to a new work environment?
+- Would it be a problem if we asked you to work overtime/evenings/weekends?
+- What is your current salary package?
+- What salary package are you expecting for this role?
+- When would you be available to start?
+- Do you mind if we contact your current employer for a reference?
+- You must surely have more than one weakness?
+- What character flaws do you have?
+- How do you handle being criticised?
+- What really makes you lose your rag?
+- How did you cope with the most difficult colleague you’ve ever had?
+- Are you able to make difficult decisions and tough choices?
+- Why haven’t you achieved more in your career?
+- What don’t you like about this line of work?
+- Where does your current employer think you are at the moment?
+- What are your current boss’s weaknesses?
+- What are your current employer’s plans for the year ahead?
+- What reservations do you have about working for us?
+- You’ve been out of work for a while. Has it been difficult finding a job?
+- What’s your sickness record like?
+- What do you think of me as an interviewer?
+- If you were in my position, what questions would you be asking?
+- What would be the toughest question I could ask you?
+- What makes you better than any of the other candidates I’m interviewing?
+- I think you’re overqualified for this job. Don’t you?
+- What will you do if I decide not to hire you?
+- See this pen? Can you sell it to me?
+- If you were an animal at the zoo, which animal would you be and why?
+- If there was a monkey hanging from a chandelier, how would you get it down?
+- Why don’t polar bears eat penguins?
+- How much water would it take to fill St Paul’s Cathedral?
+- Can you tell me what you enjoy about your current job?
+- What will you remember most about your last job?
+- Is this the first time you have made an effort to move away from your current employers?
+- How do you feel about the possibility of leaving your current job?
+- How would you describe your current employer?
+- Wouldn’t you be better suited to working in a larger/smaller organisation?
+- How do you feel this vacancy differs from your current role?
+- What reservations do you have about your ability to undertake this job?
+- Can you describe your ideal working environment to me?
+- How do you feel we compare to our competitors?
+- What would you say is our Unique Selling Point?
+- What would be your analysis of the current trends in our industry/sector?
+- What aspects of your career path would you like to have been different?
+- What are your greatest regrets about the path your career has taken?
+- What has been the greatest challenge you have faced in your career to date?
+- What do you think are your main career options for the next five years?
+- What exactly does the word ‘success’ mean to you?
+- Why did you stay with this organisation for such a short time?
+- Why did you stay with this organisation for such a long time?
+- Are you able to multitask?
+- Can you juggle a number of different projects simultaneously?
+- How do you handle rejection/disappointment/failure?
+- How do you deal with interpersonal conflict?
+- What do tact and diplomacy mean to you?
+- What makes for a successful team?
+- Would you describe yourself as a good manager?
+- Do you really think you’re management material?
+- What is your attitude to delegation?
+- Can you give me an example of a time when you had to lead from the front?
+- Have you ever had to fire or lay off a member of your staff?
+- How would you describe your ideal team member?
+- In what ways do you intend to improve upon your performance?
+- How has your current job prepared you for greater challenges/responsibility?
+- What book are you reading at the moment?
+- What newspaper do you take?
+- Are you interested in current affairs?
+- If you won the lottery, what would you do?
+- Can you tell me about the best teacher you ever had?
+- If you could meet any historical figure, who would it be and why?
+- What are you most afraid of?
+- Why aren’t you earning more?
+- How much do you think you are really worth?
+- How much does money matter to you?
+- Would you still be interested in this job if your current employer offered a pay rise?
+- Have you ever had to take a pay cut to keep your job?
+- Have you ever asked for but been refused a pay rise?
+- Do you have any medical conditions to declare?
+- Why do you want to relocate?
+- Can you perceive any problems in relocating?
+- How would you react if I were to offer you this job on the spot?
