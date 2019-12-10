@@ -1,0 +1,20 @@
+## System Design Constraints 
+- Understand the context of the System 
+- Functional Requirements 
+- Non Functional Requirements 
+    - Caching 
+    - Scaling Out 
+    - Replication 
+    - High Availability 
+    - Partitioning 
+    - Shard-ing 
+    - Load Balancing 
+- Brainstorming wih Interviewer 
+- Estimates 
+    - Traffic Estimates 
+    - Storage Estimates 
+    - Bandwidth Estimates 
+    - Memory Estimates 
+    - System API's 
+    - Database Schema Design 
+    - High Level Design     
