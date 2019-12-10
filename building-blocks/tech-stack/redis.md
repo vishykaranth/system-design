@@ -91,3 +91,12 @@
 - The combination of high-level data structures, high performance, and overall intuitiveness allow Redis to fill the role as the Swiss Army knife of data stores for a developer.
 - Redis is well suited to solving challenges encountered when developing real-time systems, thanks to the predictability of operations applied to the data in the database.
 - Redis attributes much of its performance to that fact that the data always resides in-memory. Data can be persisted to disk, but incorrect configuration could lead to data loss when Redis is shutdown improperly.    
+
+### Commands 
+
+#### RESTORE key ttl serialized-value
+- Time complexity: O(1) to create the new key and additional O(N*M) to reconstruct the serialized value, where N is the number of Redis objects composing the value and M their average size. For small string values the time complexity is thus O(1)+O(1*M) where M is small, so simply O(1). However for sorted set values the complexity is O(N*M*log(N)) because inserting values into sorted sets is O(log(N)).
+
+### References 
+- https://redis.io/commands/del
+- https://docs.redislabs.com/latest/rs/administering/troubleshooting/cluster-recovery/
