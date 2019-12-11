@@ -100,3 +100,5 @@
 ### References 
 - https://redis.io/commands/del
 - https://docs.redislabs.com/latest/rs/administering/troubleshooting/cluster-recovery/
+- http://oldblog.antirez.com/post/redis-persistence-demystified.html
+- https://sqlite.org/atomiccommit.html
