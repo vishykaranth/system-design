@@ -1,0 +1,40 @@
+## Sharding or Data Partitioning:
+- Sharding is a technique to break up a big database into many smaller parts
+    - Horizontal scaling means adding more machines, which is cheaper & more feasible
+    - Vertical scaling means improving servers
+- Partitioning Methods (Sharding Methods):
+    - Horizontal partitioning:
+        - In this we put different rows into different table(db), i.e. rows can be based on location with zip codes, this is also range based sharding
+        - Problem is if range is not choosen carefully, it'll lead to unbalanced servers.
+    - Vertical Partitioning:
+        - In this we divide data to store tables related to a specific feature to their own servers.i.e. 
+            - In Instagram, we can have 1 for user profile, 1 for photos, 1 for friend list.
+        - Problem is in case of additional growth, its necessary to further partition a feature specific DB across servers.
+- Directory based Partitioning:
+    - In this, create a lookup service which knows your current partitioning scheme & get it from DB access code.
+    - To find out a data entry, we query directory server that holds the mapping between each tuple key to its DB server.
+    - This is good to perform tasks like adding servers to the DB pool or change our partitioning scheme without impacting application.
+- Partitioning Criteria (Sharding Criteria):
+    - Hash-based partitioning:
+        - In this we apply a hash function to some key attribute of the entity we're storing, that gives partition number. 
+        - Make sure to ensure uniform allocation of data among servers
+        - Problem is it effectively fixes total number of DB servers, since adding a new server means changing the hash function, which would require redistribution of data & downtime, the workaround is Consistent Hashing.
+    - List Partitioning:
+        - In this each partition (DB server) is assigned a list of values, i.e. APAC, EMEA, US region has respective partition.
+    - Round-robin Partitioning:
+        - One by one assign which ensure uniform data distribution
+    - Composite partitioning:
+        - Combining any of above partitioning schemas to devise a new scheme. i.e First list partitioning with hash partitioning in each.
+- Common problems with Sharding (Sharding Challenges):
+    - Joins & De-normalisation:
+        - Performing joins on a database which is running on one server is straightforward, but if DB is partitioned & spread across multiple machines, it's not feasible to perform joins that span database shards.
+        - These joins won't be performance efficient.
+        - Workaround is to denormalise the DB so that queries that required joins can be performed on single table.
+    - Referential integrity:
+        - Trying to enforce data integrity constraint suh as foreign keys in a sharded DB can be extremely difficult. Most of RDMS do not support this.
+    - Re-balancing:
+        - When data distribution is not uniform. 
+        - When there is lot of load on a particular Shard.
+
+## References 
+- https://medium.com/paypal-engineering/application-design-considerations-for-sharding-high-volume-databases-429b9455a6c3
