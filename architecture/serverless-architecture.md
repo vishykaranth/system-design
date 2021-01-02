@@ -30,7 +30,7 @@
     - Auth0 Webtask
     - Oracle Fn Project
     - Kubeless
-- ![](imgs/Cloud%20Providers.jpeg)    
+- ![](imgs/Cloud Providers.jpeg)    
 ### Traditional vs. Serverless Architecture
 - ![](imgs/Traditional.jpeg)    
 - For years your applications have run on servers which you had to patch, update, 

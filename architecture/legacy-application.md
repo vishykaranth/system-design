@@ -23,7 +23,7 @@
 - Once it’s notified that the state may have changed, the subscriber notifies a state gateway that queries the state of the event-sourced system.
 - This state gateway evaluates the state against the last-known state (as the subscribing system knew it).
 - If the change is relevant, it then updates the subscribing system state and, if needed, initiates related subscribing system business processes.
-- ![](imgs/System%20Design.jpg)
+- ![](imgs/System Design.jpg)
 
 ### Some requirements
 - In order to use this approach, your subscribing system needs to:
