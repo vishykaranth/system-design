@@ -52,6 +52,8 @@
     - that all data stored in the entire system could be retrieved, and when compared, are the same.  
 - The relaxed consistencies allow the Amazon implemention of the cloud to be highly available, and eventually, transaction updates are made consistent. 
 
+## Partition Tolerance  
+
 ## References 
 - https://robertgreiner.com/cap-theorem-revisited/
 - https://jvns.ca/blog/2016/10/21/consistency-vs-availability/
